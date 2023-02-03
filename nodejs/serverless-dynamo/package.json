@@ -12,7 +12,7 @@
     "aws-sdk": "^2.830.0",
     "epsagon": "^1.104.1",
     "epsagon-frameworks": "^1.26.0",
-    "serverless": "^2.20.1",
+    "serverless": "^2.72.3",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
