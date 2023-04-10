@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.830.0",
+    "aws-sdk": "^2.1354.0",
     "epsagon": "^1.104.1",
     "epsagon-frameworks": "^1.26.0",
     "serverless": "^2.20.1",
