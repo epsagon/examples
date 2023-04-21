@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.830.0",
-    "epsagon": "^1.104.1",
+    "epsagon": "^1.123.3",
     "epsagon-frameworks": "^1.26.0",
     "serverless": "^2.20.1",
     "uuid": "^8.3.2"
